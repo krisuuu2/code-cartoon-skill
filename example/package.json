@@ -1,0 +1,10 @@
+{
+  "name": "code-cartoon-example",
+  "private": true,
+  "description": "THE BALLOON: a 2:41 cartoon in 13 styles where every frame is drawn by code. The working example of the code-cartoon skill.",
+  "type": "module",
+  "dependencies": {
+    "puppeteer-core": "^25.12.0",
+    "three": "0.159.0"
+  }
+}

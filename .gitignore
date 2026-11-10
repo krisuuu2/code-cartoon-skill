@@ -1,0 +1,7 @@
+node_modules/
+out/
+example/balloon/audio/
+example/balloon/sfx/
+example/balloon/voices.json
+*.mp3
+*.wav

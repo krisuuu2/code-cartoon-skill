@@ -1,0 +1,16 @@
+<!doctype html>
+<!-- styles8/board.html: the board of the twelve style frames (out/styles8/sN.png), 2440 x 3530. Rendered by tools_styles8.mjs -->
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Jost:wght@500;900&display=block" rel="stylesheet">
+<style>
+  body { margin: 0; width: 2440px; height: 3530px; background: #131312; color: #F0EEE6; font-family: "JetBrains Mono", monospace; overflow: hidden }
+  h1 { position: absolute; left: 80px; top: 62px; margin: 0; font: 900 84px/1 Jost, sans-serif; letter-spacing: -1px } h1 b { color: #D97757 }
+  .sub { position: absolute; right: 80px; top: 96px; font-size: 28px; color: #87867F; letter-spacing: 2px }
+  .g { position: absolute; left: 80px; top: 200px; display: grid; grid-template-columns: repeat(4, 540px); gap: 44px 40px }
+  .g img { display: block; width: 540px; height: 960px } .n { margin-top: 18px; font-size: 30px; font-weight: 700; letter-spacing: 2px } .n i { color: #D97757; font-style: normal; margin-right: 14px } .t { margin-top: 8px; font-size: 24px; color: #87867F; letter-spacing: 1px }
+</style></head><body>
+<h1>12 STYLES<b>.</b> 1 CHARACTER<b>.</b> 0 IMAGES<b>.</b></h1><div class="sub">EVERY FRAME IS CODE</div><div class="g" id="g"></div>
+<script>
+[['PICTURE BOOK', 'SVG + filters'], ['COMIC BOOK', 'Canvas 2D · halftone'], ['PIXEL ART', '180 × 320 buffer · Bayer dither'], ['LIQUID CHROME', 'raw WebGL · GLSL raymarching'], ['LOW-POLY DIORAMA', 'three.js · flat shading'], ['GENERATIVE PLOTTER', 'flow field · pure algorithm'], ['ASCII TERMINAL', 'DOM text · software raymarcher'], ['BAUHAUS POSTER', 'HTML + CSS only'], ['STUDIO PHOTO', 'GLSL path tracer · 512 rays/px'], ['ALPINE LAKE', 'GLSL terrain · fbm + atmosphere'], ['ANIME CEL', 'three.js toon ramp · hull outlines'], ['RUBBER HOSE 1930', 'Canvas 2D · bezier rig · film grain']]
+  .forEach(([n, t], i) => document.getElementById('g').insertAdjacentHTML('beforeend', `<div><img src="../out/styles8/s${i + 1}.png"><div class="n"><i>${String(i + 1).padStart(2, '0')}</i>${n}</div><div class="t">${t}</div></div>`));
+</script></body></html>

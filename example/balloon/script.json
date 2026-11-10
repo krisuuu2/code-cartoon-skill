@@ -1,0 +1,186 @@
+{
+ "fps": 30,
+ "tr": 0.5,
+ "voices": {
+  "clawd": "A small gentle creature with a calm, soft, warm voice. Young adult, light tenor, androgynous, unhurried and curious, full of quiet wonder, smiling. Natural human voice, not robotic. Clear neutral American English, close microphone, studio quality.",
+  "oldman": "Very old man, shaky thin creaky voice, gentle and amused, storybook grandpa, clear English with a soft British accent.",
+  "ferryman": "Jovial ferryman in his fifties, slightly hoarse, hearty and laughing, clear English, storybook character.",
+  "guard": "Loud castle guard, barking sharp nasal voice, stern and comic, clear English.",
+  "witch": "Middle-aged village witch, warm, lively, slightly crackly female voice, delighted and bossy, clear English.",
+  "crow": "Cartoon crow, raspy croaky high-pitched voice, dry and sarcastic talking bird, clear English.",
+  "terminal": "Flat bored monotone male voice of an old computer terminal, slow and nasal, clear English.",
+  "curator": "Elderly strict female museum curator, stern commanding dignified voice, clear English with a crisp accent.",
+  "showman": "Theatrical vaudeville showman, booming gravelly baritone, grand and self-important, clear English, 1930s announcer feel.",
+  "photographer": "Woman in her forties, gentle, warm, clear mid-pitched voice, calm and kind, clear English."
+ },
+ "scenes": [
+  {
+   "id": "book",
+   "plan": [
+    ["gap", "open", 0.7],
+    ["line", "clawd", "calm", "This morning a boy lost his balloon, so I promised to bring it back.", true],
+    ["gap", "cliff", 1.3],
+    ["line", "oldman", "amused", "You will never climb that, little box. Unless you can do comics."],
+    ["gap", "", 0.25],
+    ["line", "clawd", "calm", "Of course I can."],
+    ["gap", "out", 0.5]
+   ]
+  },
+  {
+   "id": "comic",
+   "plan": [
+    ["gap", "pow", 1.4],
+    ["line", "clawd", "pleased", "In a comic, a wall is only one punch away.", true],
+    ["gap", "shore", 0.6],
+    ["line", "ferryman", "laughs", "Nice punch! But the ferry is gone. Can you do pixels?"],
+    ["gap", "", 0.2],
+    ["line", "clawd", "cheerful", "Of course."],
+    ["gap", "out", 0.5]
+   ]
+  },
+  {
+   "id": "pixel",
+   "plan": [
+    ["gap", "open", 0.9],
+    ["line", "clawd", "content", "So I crossed the sea eight pixels at a time.", true],
+    ["gap", "gate", 1.0],
+    ["line", "guard", "stern", "Halt! Nothing solid gets through these bars."],
+    ["gap", "", 0.2],
+    ["line", "clawd", "playful", "Then I will not be solid."],
+    ["gap", "out", 0.5]
+   ]
+  },
+  {
+   "id": "chrome",
+   "plan": [
+    ["gap", "melt", 2.4],
+    ["line", "witch", "delighted", "Ooh, shiny! Now do the one with the tiny islands."],
+    ["gap", "", 0.2],
+    ["line", "clawd", "chuckles", "That is low-poly, and it is my favourite."],
+    ["gap", "out", 0.5]
+   ]
+  },
+  {
+   "id": "lowpoly",
+   "plan": [
+    ["gap", "open", 0.9],
+    ["line", "clawd", "happy", "I love it here, because every cloud has corners.", true],
+    ["gap", "gust", 1.1],
+    ["line", "crow", "dry", "You are chasing the wind, box, and you cannot even see it."],
+    ["gap", "", 0.2],
+    ["line", "clawd", "thoughtful", "Then I will draw it."],
+    ["gap", "out", 0.5]
+   ]
+  },
+  {
+   "id": "flow",
+   "plan": [
+    ["gap", "open", 0.9],
+    ["line", "clawd", "awe", "So I drew six hundred lines, and every one of them was the wind.", true],
+    ["gap", "ride", 1.8]
+   ]
+  },
+  {
+   "id": "ascii",
+   "plan": [
+    ["gap", "open", 1.0],
+    ["line", "terminal", "flat", "Password."],
+    ["gap", "", 0.5],
+    ["line", "clawd", "calm", "Please."],
+    ["gap", "granted", 1.5]
+   ]
+  },
+  {
+   "id": "bauhaus",
+   "plan": [
+    ["gap", "open", 0.7],
+    ["line", "curator", "strict", "Too much decoration! A circle, a triangle, a line. Can you do that?"],
+    ["gap", "reduce", 1.1],
+    ["line", "clawd", "soft", "That made it easy, because there was only one red circle in the room.", true],
+    ["gap", "roll", 1.3]
+   ]
+  },
+  {
+   "id": "hose",
+   "plan": [
+    ["gap", "open", 0.9],
+    ["line", "showman", "booming", "A box with such short arms! Can you do the old cartoons?"],
+    ["gap", "", 0.2],
+    ["line", "clawd", "amused", "Of course, because their arms have no bones."],
+    ["gap", "stretch", 2.6],
+    ["line", "clawd", "sighs", "It was almost enough.", true],
+    ["gap", "out", 0.5]
+   ]
+  },
+  {
+   "id": "studio",
+   "plan": [
+    ["gap", "open", 0.9],
+    ["line", "photographer", "gentle", "Hold still. Can you do real?"],
+    ["gap", "", 0.25],
+    ["line", "clawd", "hesitant", "Real is the hard one, because real light has to bounce."],
+    ["gap", "flash", 1.3],
+    ["line", "clawd", "proud", "So I followed five hundred rays of light for every single pixel.", true],
+    ["gap", "out", 0.8]
+   ]
+  },
+  {
+   "id": "lake",
+   "plan": [
+    ["gap", "open", 1.6],
+    ["line", "clawd", "softly", "Then the world went quiet, and there it was.", true],
+    ["gap", "drift", 2.0]
+   ]
+  },
+  {
+   "id": "anime",
+   "plan": [
+    ["gap", "open", 0.8],
+    ["line", "clawd", "happy", "Nobody asked me for the last one, so I chose the big summer clouds myself.", true],
+    ["gap", "leap", 2.4]
+   ]
+  },
+  {
+   "id": "home",
+   "plan": [
+    ["gap", "open", 0.3],
+    [
+     "line",
+     "clawd",
+     "joyful",
+     "So I went home the way I came: through clouds, water and light, through rubber, shapes and letters, through wind, corners and metal, through pixels, ink... [softly] and paper.",
+     true
+    ],
+    ["gap", "land", 0.9]
+   ]
+  },
+  {
+   "id": "back",
+   "plan": [
+    ["gap", "open", 0.5],
+    ["line", "clawd", "amazed", "And I still cannot believe that all of that was me.", true],
+    ["gap", "give", 0.5],
+    ["line", "clawd", "warm", "The boy never asked me for a style, because he only wanted his balloon.", true],
+    ["gap", "show", 1.7],
+    ["line", "clawd", "laughs softly", "Until now."],
+    ["gap", "", 0.5],
+    ["line", "clawd", "tender", "Of course."],
+    ["gap", "out", 0.6]
+   ]
+  },
+  {
+   "id": "drawing",
+   "plan": [
+    ["gap", "scribble", 2.6],
+    ["line", "clawd", "warm", "Which one should I try next?", true],
+    ["gap", "hold", 2.4]
+   ]
+  },
+  {
+   "id": "end",
+   "plan": [
+    ["gap", "card", 2.6]
+   ]
+  }
+ ]
+}

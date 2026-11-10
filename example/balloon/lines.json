@@ -1,0 +1,1847 @@
+{
+ "book_1": {
+  "who": "clawd",
+  "tag": "calm",
+  "text": "This morning a boy lost his balloon, so I promised to bring it back.",
+  "dur": 4.665,
+  "match": 1.0,
+  "heard": "This morning, a boy lost his balloon, so I promised to bring it back",
+  "words": [
+   [
+    "This",
+    0.08,
+    0.26
+   ],
+   [
+    "morning,",
+    0.32,
+    0.68
+   ],
+   [
+    "a",
+    1.04,
+    1.14
+   ],
+   [
+    "boy",
+    1.18,
+    1.38
+   ],
+   [
+    "lost",
+    1.48,
+    1.74
+   ],
+   [
+    "his",
+    1.76,
+    1.94
+   ],
+   [
+    "balloon,",
+    1.98,
+    2.46
+   ],
+   [
+    "so",
+    2.96,
+    3.24
+   ],
+   [
+    "I",
+    3.42,
+    3.42
+   ],
+   [
+    "promised",
+    3.44,
+    3.8
+   ],
+   [
+    "to",
+    3.84,
+    3.92
+   ],
+   [
+    "bring",
+    3.94,
+    4.059
+   ],
+   [
+    "it",
+    4.1,
+    4.18
+   ],
+   [
+    "back",
+    4.22,
+    4.54
+   ]
+  ]
+ },
+ "book_2": {
+  "who": "oldman",
+  "tag": "amused",
+  "text": "You will never climb that, little box. Unless you can do comics.",
+  "dur": 4.848,
+  "match": 1.0,
+  "heard": "You will never climb that little box unless you can do comics",
+  "words": [
+   [
+    "You",
+    0.26,
+    0.38
+   ],
+   [
+    "will",
+    0.48,
+    0.6
+   ],
+   [
+    "never",
+    0.78,
+    1.06
+   ],
+   [
+    "climb",
+    1.16,
+    1.48
+   ],
+   [
+    "that",
+    1.56,
+    1.76
+   ],
+   [
+    "little",
+    1.82,
+    2.0
+   ],
+   [
+    "box",
+    2.1,
+    2.46
+   ],
+   [
+    "unless",
+    3.1,
+    3.48
+   ],
+   [
+    "you",
+    3.52,
+    3.62
+   ],
+   [
+    "can",
+    3.66,
+    3.82
+   ],
+   [
+    "do",
+    3.86,
+    4.04
+   ],
+   [
+    "comics",
+    4.1,
+    4.66
+   ]
+  ]
+ },
+ "book_3": {
+  "who": "clawd",
+  "tag": "calm",
+  "text": "Of course I can.",
+  "dur": 1.346,
+  "match": 1.0,
+  "heard": "Of course I can",
+  "words": [
+   [
+    "Of",
+    0.08,
+    0.16
+   ],
+   [
+    "course",
+    0.3,
+    0.56
+   ],
+   [
+    "I",
+    0.68,
+    0.74
+   ],
+   [
+    "can",
+    0.8,
+    1.12
+   ]
+  ]
+ },
+ "comic_1": {
+  "who": "clawd",
+  "tag": "pleased",
+  "text": "In a comic, a wall is only one punch away.",
+  "dur": 3.308,
+  "match": 1.0,
+  "heard": "In a comic, a wall is only one punch away",
+  "words": [
+   [
+    "In",
+    0.1,
+    0.18
+   ],
+   [
+    "a",
+    0.22,
+    0.3
+   ],
+   [
+    "comic,",
+    0.36,
+    0.82
+   ],
+   [
+    "a",
+    1.12,
+    1.22
+   ],
+   [
+    "wall",
+    1.26,
+    1.56
+   ],
+   [
+    "is",
+    1.64,
+    1.76
+   ],
+   [
+    "only",
+    1.82,
+    2.02
+   ],
+   [
+    "one",
+    2.24,
+    2.4
+   ],
+   [
+    "punch",
+    2.5,
+    2.72
+   ],
+   [
+    "away",
+    2.8,
+    3.14
+   ]
+  ]
+ },
+ "comic_2": {
+  "who": "ferryman",
+  "tag": "laughs",
+  "text": "Nice punch! But the ferry is gone. Can you do pixels?",
+  "dur": 5.28,
+  "match": 1.0,
+  "heard": "[laughs] Nice punch, but the ferry is gone. Can you do pixels?",
+  "words": [
+   [
+    "Nice",
+    0.76,
+    1.1
+   ],
+   [
+    "punch,",
+    1.26,
+    1.7
+   ],
+   [
+    "but",
+    2.32,
+    2.44
+   ],
+   [
+    "the",
+    2.48,
+    2.58
+   ],
+   [
+    "ferry",
+    2.64,
+    2.92
+   ],
+   [
+    "is",
+    2.96,
+    3.1
+   ],
+   [
+    "gone.",
+    3.16,
+    3.5
+   ],
+   [
+    "Can",
+    4.12,
+    4.24
+   ],
+   [
+    "you",
+    4.28,
+    4.36
+   ],
+   [
+    "do",
+    4.4,
+    4.5
+   ],
+   [
+    "pixels?",
+    4.62,
+    5.12
+   ]
+  ]
+ },
+ "comic_3": {
+  "who": "clawd",
+  "tag": "cheerful",
+  "text": "Of course.",
+  "dur": 1.048,
+  "match": 1.0,
+  "heard": "Of course",
+  "words": [
+   [
+    "Of",
+    0.1,
+    0.22
+   ],
+   [
+    "course",
+    0.34,
+    0.92
+   ]
+  ]
+ },
+ "pixel_1": {
+  "who": "clawd",
+  "tag": "content",
+  "text": "So I crossed the sea eight pixels at a time.",
+  "dur": 3.283,
+  "match": 1.0,
+  "heard": "So I crossed the sea eight pixels at a time",
+  "words": [
+   [
+    "So",
+    0.12,
+    0.24
+   ],
+   [
+    "I",
+    0.34,
+    0.4
+   ],
+   [
+    "crossed",
+    0.46,
+    0.88
+   ],
+   [
+    "the",
+    0.92,
+    1.04
+   ],
+   [
+    "sea",
+    1.1,
+    1.36
+   ],
+   [
+    "eight",
+    1.78,
+    1.96
+   ],
+   [
+    "pixels",
+    2.08,
+    2.5
+   ],
+   [
+    "at",
+    2.56,
+    2.64
+   ],
+   [
+    "a",
+    2.68,
+    2.74
+   ],
+   [
+    "time",
+    2.8,
+    3.16
+   ]
+  ]
+ },
+ "pixel_2": {
+  "who": "guard",
+  "tag": "stern",
+  "text": "Halt! Nothing solid gets through these bars.",
+  "dur": 2.929,
+  "match": 1.0,
+  "heard": "Halt! Nothing solid gets through these bars",
+  "words": [
+   [
+    "Halt!",
+    0.06,
+    0.36
+   ],
+   [
+    "Nothing",
+    0.82,
+    1.14
+   ],
+   [
+    "solid",
+    1.3,
+    1.6
+   ],
+   [
+    "gets",
+    1.68,
+    1.88
+   ],
+   [
+    "through",
+    1.9,
+    2.08
+   ],
+   [
+    "these",
+    2.12,
+    2.26
+   ],
+   [
+    "bars",
+    2.36,
+    2.8
+   ]
+  ]
+ },
+ "pixel_3": {
+  "who": "clawd",
+  "tag": "playful",
+  "text": "Then I will not be solid.",
+  "dur": 2.177,
+  "match": 1.0,
+  "heard": "Then I will not be solid",
+  "words": [
+   [
+    "Then",
+    0.2,
+    0.44
+   ],
+   [
+    "I",
+    0.64,
+    0.72
+   ],
+   [
+    "will",
+    0.74,
+    0.9
+   ],
+   [
+    "not",
+    1.06,
+    1.34
+   ],
+   [
+    "be",
+    1.38,
+    1.54
+   ],
+   [
+    "solid",
+    1.6,
+    2.02
+   ]
+  ]
+ },
+ "chrome_1": {
+  "who": "witch",
+  "tag": "delighted",
+  "text": "Ooh, shiny! Now do the one with the tiny islands.",
+  "dur": 4.136,
+  "match": 1.0,
+  "heard": "Ooh, shiny. Now do the one with the tiny islands",
+  "words": [
+   [
+    "Ooh,",
+    0.12,
+    0.56
+   ],
+   [
+    "shiny.",
+    0.82,
+    1.42
+   ],
+   [
+    "Now",
+    1.92,
+    2.1
+   ],
+   [
+    "do",
+    2.2,
+    2.32
+   ],
+   [
+    "the",
+    2.36,
+    2.46
+   ],
+   [
+    "one",
+    2.5,
+    2.66
+   ],
+   [
+    "with",
+    2.7,
+    2.8
+   ],
+   [
+    "the",
+    2.84,
+    2.96
+   ],
+   [
+    "tiny",
+    3.02,
+    3.36
+   ],
+   [
+    "islands",
+    3.5,
+    3.98
+   ]
+  ]
+ },
+ "chrome_2": {
+  "who": "clawd",
+  "tag": "chuckles",
+  "text": "That is low-poly, and it is my favourite.",
+  "dur": 4.566,
+  "match": 0.71,
+  "heard": "[chuckles] That is low poly and it is my favorite",
+  "words": [
+   [
+    "That",
+    1.08,
+    1.38
+   ],
+   [
+    "is",
+    1.44,
+    1.6
+   ],
+   [
+    "low",
+    1.8,
+    1.96
+   ],
+   [
+    "poly",
+    2.08,
+    2.46
+   ],
+   [
+    "and",
+    2.9,
+    3.08
+   ],
+   [
+    "it",
+    3.22,
+    3.28
+   ],
+   [
+    "is",
+    3.34,
+    3.46
+   ],
+   [
+    "my",
+    3.52,
+    3.64
+   ],
+   [
+    "favorite",
+    3.88,
+    4.4
+   ]
+  ]
+ },
+ "lowpoly_1": {
+  "who": "clawd",
+  "tag": "happy",
+  "text": "I love it here, because every cloud has corners.",
+  "dur": 3.451,
+  "match": 1.0,
+  "heard": "I love it here because every cloud has corners",
+  "words": [
+   [
+    "I",
+    0.22,
+    0.28
+   ],
+   [
+    "love",
+    0.5,
+    0.7
+   ],
+   [
+    "it",
+    0.74,
+    0.86
+   ],
+   [
+    "here",
+    0.92,
+    1.2
+   ],
+   [
+    "because",
+    1.46,
+    1.84
+   ],
+   [
+    "every",
+    1.92,
+    2.18
+   ],
+   [
+    "cloud",
+    2.22,
+    2.5
+   ],
+   [
+    "has",
+    2.54,
+    2.72
+   ],
+   [
+    "corners",
+    2.78,
+    3.3
+   ]
+  ]
+ },
+ "lowpoly_2": {
+  "who": "crow",
+  "tag": "dry",
+  "text": "You are chasing the wind, box, and you cannot even see it.",
+  "dur": 4.06,
+  "match": 1.0,
+  "heard": "You are chasing the wind, Box, and you cannot even see it",
+  "words": [
+   [
+    "You",
+    0.1,
+    0.18
+   ],
+   [
+    "are",
+    0.22,
+    0.36
+   ],
+   [
+    "chasing",
+    0.42,
+    0.86
+   ],
+   [
+    "the",
+    0.9,
+    0.98
+   ],
+   [
+    "wind,",
+    1.1,
+    1.42
+   ],
+   [
+    "Box,",
+    1.58,
+    1.98
+   ],
+   [
+    "and",
+    2.42,
+    2.52
+   ],
+   [
+    "you",
+    2.58,
+    2.68
+   ],
+   [
+    "cannot",
+    2.74,
+    3.04
+   ],
+   [
+    "even",
+    3.1,
+    3.28
+   ],
+   [
+    "see",
+    3.48,
+    3.64
+   ],
+   [
+    "it",
+    3.68,
+    3.88
+   ]
+  ]
+ },
+ "lowpoly_3": {
+  "who": "clawd",
+  "tag": "thoughtful",
+  "text": "Then I will draw it.",
+  "dur": 1.845,
+  "match": 1.0,
+  "heard": "Then I will draw it",
+  "words": [
+   [
+    "Then",
+    0.12,
+    0.48
+   ],
+   [
+    "I",
+    0.86,
+    0.9
+   ],
+   [
+    "will",
+    0.94,
+    1.04
+   ],
+   [
+    "draw",
+    1.14,
+    1.42
+   ],
+   [
+    "it",
+    1.46,
+    1.64
+   ]
+  ]
+ },
+ "flow_1": {
+  "who": "clawd",
+  "tag": "awe",
+  "text": "So I drew six hundred lines, and every one of them was the wind.",
+  "dur": 5.19,
+  "match": 1.0,
+  "heard": "So I drew six hundred lines and every one of them was the wind",
+  "words": [
+   [
+    "So",
+    0.16,
+    0.3
+   ],
+   [
+    "I",
+    0.44,
+    0.52
+   ],
+   [
+    "drew",
+    0.56,
+    0.76
+   ],
+   [
+    "six",
+    1.04,
+    1.36
+   ],
+   [
+    "hundred",
+    1.42,
+    1.8
+   ],
+   [
+    "lines",
+    1.9,
+    2.4
+   ],
+   [
+    "and",
+    2.86,
+    3.12
+   ],
+   [
+    "every",
+    3.22,
+    3.52
+   ],
+   [
+    "one",
+    3.7,
+    3.8
+   ],
+   [
+    "of",
+    3.84,
+    3.96
+   ],
+   [
+    "them",
+    4.0,
+    4.24
+   ],
+   [
+    "was",
+    4.3,
+    4.46
+   ],
+   [
+    "the",
+    4.5,
+    4.62
+   ],
+   [
+    "wind",
+    4.68,
+    5.08
+   ]
+  ]
+ },
+ "ascii_1": {
+  "who": "terminal",
+  "tag": "flat",
+  "text": "Password.",
+  "dur": 0.885,
+  "match": 1.0,
+  "heard": "Password",
+  "words": [
+   [
+    "Password",
+    0.08,
+    0.7
+   ]
+  ]
+ },
+ "ascii_2": {
+  "who": "clawd",
+  "tag": "calm",
+  "text": "Please.",
+  "dur": 0.792,
+  "match": 1.0,
+  "heard": "Please",
+  "words": [
+   [
+    "Please",
+    0.06,
+    0.6
+   ]
+  ]
+ },
+ "bauhaus_1": {
+  "who": "curator",
+  "tag": "strict",
+  "text": "Too much decoration! A circle, a triangle, a line. Can you do that?",
+  "dur": 5.986,
+  "match": 1.0,
+  "heard": "Too much decoration. A circle, a triangle, a line. Can you do that?",
+  "words": [
+   [
+    "Too",
+    0.1,
+    0.3
+   ],
+   [
+    "much",
+    0.42,
+    0.62
+   ],
+   [
+    "decoration.",
+    0.76,
+    1.58
+   ],
+   [
+    "A",
+    2.02,
+    2.04
+   ],
+   [
+    "circle,",
+    2.2,
+    2.64
+   ],
+   [
+    "a",
+    2.9,
+    2.96
+   ],
+   [
+    "triangle,",
+    3.04,
+    3.64
+   ],
+   [
+    "a",
+    3.94,
+    3.98
+   ],
+   [
+    "line.",
+    4.08,
+    4.52
+   ],
+   [
+    "Can",
+    4.96,
+    5.1
+   ],
+   [
+    "you",
+    5.14,
+    5.24
+   ],
+   [
+    "do",
+    5.3,
+    5.44
+   ],
+   [
+    "that?",
+    5.5,
+    5.8
+   ]
+  ]
+ },
+ "bauhaus_2": {
+  "who": "clawd",
+  "tag": "soft",
+  "text": "That made it easy, because there was only one red circle in the room.",
+  "dur": 4.274,
+  "match": 1.0,
+  "heard": "That made it easy because there was only one red circle in the room",
+  "words": [
+   [
+    "That",
+    0.08,
+    0.22
+   ],
+   [
+    "made",
+    0.28,
+    0.42
+   ],
+   [
+    "it",
+    0.46,
+    0.58
+   ],
+   [
+    "easy",
+    0.68,
+    1.06
+   ],
+   [
+    "because",
+    1.58,
+    1.84
+   ],
+   [
+    "there",
+    1.88,
+    1.98
+   ],
+   [
+    "was",
+    2.02,
+    2.18
+   ],
+   [
+    "only",
+    2.24,
+    2.58
+   ],
+   [
+    "one",
+    2.68,
+    2.9
+   ],
+   [
+    "red",
+    2.96,
+    3.16
+   ],
+   [
+    "circle",
+    3.22,
+    3.56
+   ],
+   [
+    "in",
+    3.62,
+    3.7
+   ],
+   [
+    "the",
+    3.74,
+    3.84
+   ],
+   [
+    "room",
+    3.88,
+    4.12
+   ]
+  ]
+ },
+ "hose_1": {
+  "who": "showman",
+  "tag": "booming",
+  "text": "A box with such short arms! Can you do the old cartoons?",
+  "dur": 4.525,
+  "match": 1.0,
+  "heard": "A box with such short arms. Can you do the old cartoons?",
+  "words": [
+   [
+    "A",
+    0.08,
+    0.14
+   ],
+   [
+    "box",
+    0.34,
+    0.66
+   ],
+   [
+    "with",
+    0.74,
+    0.88
+   ],
+   [
+    "such",
+    1.04,
+    1.28
+   ],
+   [
+    "short",
+    1.38,
+    1.64
+   ],
+   [
+    "arms.",
+    1.74,
+    2.26
+   ],
+   [
+    "Can",
+    2.8,
+    2.94
+   ],
+   [
+    "you",
+    2.98,
+    3.08
+   ],
+   [
+    "do",
+    3.12,
+    3.24
+   ],
+   [
+    "the",
+    3.28,
+    3.36
+   ],
+   [
+    "old",
+    3.42,
+    3.56
+   ],
+   [
+    "cartoons?",
+    3.66,
+    4.34
+   ]
+  ]
+ },
+ "hose_2": {
+  "who": "clawd",
+  "tag": "amused",
+  "text": "Of course, because their arms have no bones.",
+  "dur": 3.351,
+  "match": 1.0,
+  "heard": "Of course, because their arms have no bones",
+  "words": [
+   [
+    "Of",
+    0.22,
+    0.34
+   ],
+   [
+    "course,",
+    0.48,
+    1.0
+   ],
+   [
+    "because",
+    1.24,
+    1.58
+   ],
+   [
+    "their",
+    1.6,
+    1.78
+   ],
+   [
+    "arms",
+    1.86,
+    2.1
+   ],
+   [
+    "have",
+    2.14,
+    2.3
+   ],
+   [
+    "no",
+    2.34,
+    2.46
+   ],
+   [
+    "bones",
+    2.62,
+    3.2
+   ]
+  ]
+ },
+ "hose_3": {
+  "who": "clawd",
+  "tag": "sighs",
+  "text": "It was almost enough.",
+  "dur": 2.632,
+  "match": 1.0,
+  "heard": "[sighs] It was almost enough",
+  "words": [
+   [
+    "It",
+    0.94,
+    1.04
+   ],
+   [
+    "was",
+    1.1,
+    1.22
+   ],
+   [
+    "almost",
+    1.48,
+    1.92
+   ],
+   [
+    "enough",
+    1.96,
+    2.38
+   ]
+  ]
+ },
+ "studio_1": {
+  "who": "photographer",
+  "tag": "gentle",
+  "text": "Hold still. Can you do real?",
+  "dur": 2.235,
+  "match": 1.0,
+  "heard": "Hold still. Can you do real?",
+  "words": [
+   [
+    "Hold",
+    0.1,
+    0.32
+   ],
+   [
+    "still.",
+    0.38,
+    0.76
+   ],
+   [
+    "Can",
+    1.36,
+    1.48
+   ],
+   [
+    "you",
+    1.52,
+    1.58
+   ],
+   [
+    "do",
+    1.62,
+    1.72
+   ],
+   [
+    "real?",
+    1.84,
+    2.08
+   ]
+  ]
+ },
+ "studio_2": {
+  "who": "clawd",
+  "tag": "hesitant",
+  "text": "Real is the hard one, because real light has to bounce.",
+  "dur": 4.426,
+  "match": 1.0,
+  "heard": "Real is the hard one because real light has to bounce",
+  "words": [
+   [
+    "Real",
+    0.26,
+    0.68
+   ],
+   [
+    "is",
+    0.76,
+    0.92
+   ],
+   [
+    "the",
+    0.98,
+    1.1
+   ],
+   [
+    "hard",
+    1.18,
+    1.44
+   ],
+   [
+    "one",
+    1.54,
+    1.78
+   ],
+   [
+    "because",
+    2.18,
+    2.46
+   ],
+   [
+    "real",
+    2.68,
+    2.94
+   ],
+   [
+    "light",
+    2.98,
+    3.28
+   ],
+   [
+    "has",
+    3.34,
+    3.54
+   ],
+   [
+    "to",
+    3.56,
+    3.7
+   ],
+   [
+    "bounce",
+    3.74,
+    4.22
+   ]
+  ]
+ },
+ "studio_3": {
+  "who": "clawd",
+  "tag": "proud",
+  "text": "So I followed five hundred rays of light for every single pixel.",
+  "dur": 4.49,
+  "match": 0.91,
+  "heard": "So I followed 500 rays of light for every single pixel",
+  "words": [
+   [
+    "So",
+    0.12,
+    0.26
+   ],
+   [
+    "I",
+    0.4,
+    0.52
+   ],
+   [
+    "followed",
+    0.56,
+    0.88
+   ],
+   [
+    "500",
+    1.42,
+    1.8
+   ],
+   [
+    "rays",
+    1.84,
+    2.06
+   ],
+   [
+    "of",
+    2.1,
+    2.2
+   ],
+   [
+    "light",
+    2.26,
+    2.56
+   ],
+   [
+    "for",
+    2.6,
+    2.68
+   ],
+   [
+    "every",
+    2.96,
+    3.28
+   ],
+   [
+    "single",
+    3.48,
+    3.76
+   ],
+   [
+    "pixel",
+    3.92,
+    4.34
+   ]
+  ]
+ },
+ "lake_1": {
+  "who": "clawd",
+  "tag": "softly",
+  "text": "Then the world went quiet, and there it was.",
+  "dur": 3.396,
+  "match": 1.0,
+  "heard": "Then the world went quiet and there it was",
+  "words": [
+   [
+    "Then",
+    0.1,
+    0.28
+   ],
+   [
+    "the",
+    0.32,
+    0.44
+   ],
+   [
+    "world",
+    0.5,
+    0.8
+   ],
+   [
+    "went",
+    0.88,
+    1.08
+   ],
+   [
+    "quiet",
+    1.16,
+    1.66
+   ],
+   [
+    "and",
+    2.3,
+    2.42
+   ],
+   [
+    "there",
+    2.48,
+    2.6
+   ],
+   [
+    "it",
+    2.66,
+    2.76
+   ],
+   [
+    "was",
+    2.82,
+    3.24
+   ]
+  ]
+ },
+ "anime_1": {
+  "who": "clawd",
+  "tag": "happy",
+  "text": "Nobody asked me for the last one, so I chose the big summer clouds myself.",
+  "dur": 4.91,
+  "match": 1.0,
+  "heard": "Nobody asked me for the last one, so I chose the big summer clouds myself",
+  "words": [
+   [
+    "Nobody",
+    0.14,
+    0.46
+   ],
+   [
+    "asked",
+    0.58,
+    0.78
+   ],
+   [
+    "me",
+    0.82,
+    0.94
+   ],
+   [
+    "for",
+    0.96,
+    1.06
+   ],
+   [
+    "the",
+    1.1,
+    1.16
+   ],
+   [
+    "last",
+    1.2,
+    1.5
+   ],
+   [
+    "one,",
+    1.54,
+    1.74
+   ],
+   [
+    "so",
+    2.06,
+    2.22
+   ],
+   [
+    "I",
+    2.56,
+    2.62
+   ],
+   [
+    "chose",
+    2.68,
+    2.94
+   ],
+   [
+    "the",
+    2.98,
+    3.18
+   ],
+   [
+    "big",
+    3.22,
+    3.4
+   ],
+   [
+    "summer",
+    3.52,
+    3.74
+   ],
+   [
+    "clouds",
+    3.84,
+    4.18
+   ],
+   [
+    "myself",
+    4.22,
+    4.78
+   ]
+  ]
+ },
+ "home_1": {
+  "who": "clawd",
+  "tag": "joyful",
+  "text": "So I went home the way I came: through clouds, water and light, through rubber, shapes and letters, through wind, corners and metal, through pixels, ink... [softly] and paper.",
+  "dur": 12.605,
+  "match": 1.0,
+  "heard": "So I went home the way I came, through clouds, water, and light, through rubber, shapes, and letters, through wind, corners, and metal, through pixels, ink, and paper",
+  "words": [
+   [
+    "So",
+    0.14,
+    0.28
+   ],
+   [
+    "I",
+    0.4,
+    0.46
+   ],
+   [
+    "went",
+    0.5,
+    0.68
+   ],
+   [
+    "home",
+    0.72,
+    0.92
+   ],
+   [
+    "the",
+    0.98,
+    1.04
+   ],
+   [
+    "way",
+    1.08,
+    1.22
+   ],
+   [
+    "I",
+    1.3,
+    1.38
+   ],
+   [
+    "came,",
+    1.44,
+    1.78
+   ],
+   [
+    "through",
+    2.18,
+    2.42
+   ],
+   [
+    "clouds,",
+    2.48,
+    3.1
+   ],
+   [
+    "water,",
+    3.34,
+    3.7
+   ],
+   [
+    "and",
+    3.8,
+    3.96
+   ],
+   [
+    "light,",
+    4.059,
+    4.38
+   ],
+   [
+    "through",
+    4.76,
+    5.02
+   ],
+   [
+    "rubber,",
+    5.06,
+    5.46
+   ],
+   [
+    "shapes,",
+    5.7,
+    6.08
+   ],
+   [
+    "and",
+    6.12,
+    6.22
+   ],
+   [
+    "letters,",
+    6.34,
+    6.76
+   ],
+   [
+    "through",
+    7.14,
+    7.42
+   ],
+   [
+    "wind,",
+    7.48,
+    7.9
+   ],
+   [
+    "corners,",
+    8.14,
+    8.6
+   ],
+   [
+    "and",
+    8.64,
+    8.74
+   ],
+   [
+    "metal,",
+    8.86,
+    9.18
+   ],
+   [
+    "through",
+    9.64,
+    9.86
+   ],
+   [
+    "pixels,",
+    9.92,
+    10.52
+   ],
+   [
+    "ink,",
+    10.96,
+    11.22
+   ],
+   [
+    "and",
+    11.82,
+    11.92
+   ],
+   [
+    "paper",
+    12.04,
+    12.42
+   ]
+  ]
+ },
+ "back_1": {
+  "who": "clawd",
+  "tag": "amazed",
+  "text": "And I still cannot believe that all of that was me.",
+  "dur": 3.59,
+  "match": 1.0,
+  "heard": "And I still cannot believe that all of that was me",
+  "words": [
+   [
+    "And",
+    0.08,
+    0.16
+   ],
+   [
+    "I",
+    0.3,
+    0.38
+   ],
+   [
+    "still",
+    0.6,
+    0.9
+   ],
+   [
+    "cannot",
+    0.94,
+    1.26
+   ],
+   [
+    "believe",
+    1.3,
+    1.88
+   ],
+   [
+    "that",
+    1.92,
+    2.16
+   ],
+   [
+    "all",
+    2.28,
+    2.42
+   ],
+   [
+    "of",
+    2.46,
+    2.56
+   ],
+   [
+    "that",
+    2.62,
+    2.78
+   ],
+   [
+    "was",
+    2.82,
+    2.98
+   ],
+   [
+    "me",
+    3.08,
+    3.42
+   ]
+  ]
+ },
+ "back_2": {
+  "who": "clawd",
+  "tag": "warm",
+  "text": "The boy never asked me for a style, because he only wanted his balloon.",
+  "dur": 4.482,
+  "match": 1.0,
+  "heard": "The boy never asked me for a style because he only wanted his balloon",
+  "words": [
+   [
+    "The",
+    0.04,
+    0.14
+   ],
+   [
+    "boy",
+    0.18,
+    0.38
+   ],
+   [
+    "never",
+    0.54,
+    0.84
+   ],
+   [
+    "asked",
+    0.96,
+    1.22
+   ],
+   [
+    "me",
+    1.28,
+    1.4
+   ],
+   [
+    "for",
+    1.44,
+    1.54
+   ],
+   [
+    "a",
+    1.6,
+    1.66
+   ],
+   [
+    "style",
+    1.76,
+    2.1
+   ],
+   [
+    "because",
+    2.4,
+    2.68
+   ],
+   [
+    "he",
+    2.7,
+    2.88
+   ],
+   [
+    "only",
+    2.96,
+    3.26
+   ],
+   [
+    "wanted",
+    3.3,
+    3.6
+   ],
+   [
+    "his",
+    3.64,
+    3.82
+   ],
+   [
+    "balloon",
+    3.86,
+    4.34
+   ]
+  ]
+ },
+ "back_3": {
+  "who": "clawd",
+  "tag": "laughs softly",
+  "text": "Until now.",
+  "dur": 2.127,
+  "match": 1.0,
+  "heard": "[chuckles] Until now",
+  "words": [
+   [
+    "Until",
+    1.12,
+    1.48
+   ],
+   [
+    "now",
+    1.6,
+    1.92
+   ]
+  ]
+ },
+ "back_4": {
+  "who": "clawd",
+  "tag": "tender",
+  "text": "Of course.",
+  "dur": 1.074,
+  "match": 1.0,
+  "heard": "Of course",
+  "words": [
+   [
+    "Of",
+    0.08,
+    0.18
+   ],
+   [
+    "course",
+    0.34,
+    0.9
+   ]
+  ]
+ },
+ "drawing_1": {
+  "who": "clawd",
+  "tag": "warm",
+  "text": "Which one should I try next?",
+  "dur": 1.942,
+  "match": 1.0,
+  "heard": "Which one should I try next?",
+  "words": [
+   [
+    "Which",
+    0.14,
+    0.3
+   ],
+   [
+    "one",
+    0.38,
+    0.54
+   ],
+   [
+    "should",
+    0.62,
+    0.74
+   ],
+   [
+    "I",
+    0.82,
+    0.88
+   ],
+   [
+    "try",
+    0.92,
+    1.08
+   ],
+   [
+    "next?",
+    1.16,
+    1.62
+   ]
+  ]
+ }
+}

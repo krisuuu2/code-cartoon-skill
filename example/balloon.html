@@ -1,0 +1,22 @@
+<!doctype html>
+<!-- balloon.html: THE BALLOON (script: styles8/STORY_balloon.md, contract: balloon/CONTRACT.md). ?t=12.3 one film frame · ?scene=book&u=2 one scene · ?glide=book&k=.5 the finale pose · ?only=book,comic loads only those scenes -->
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@700;800&family=Bangers&family=Press+Start+2P&family=JetBrains+Mono:wght@400;700&family=Jost:ital,wght@0,500;0,900;1,500&family=Chango&family=Limelight&display=block" rel="stylesheet">
+<style>
+  html, body { margin: 0; background: #000; overflow: hidden } #stage, .sc { position: absolute; left: 0; top: 0; width: 1080px; height: 1920px; overflow: hidden }
+  #sub { position: absolute; left: 70px; width: 940px; bottom: 250px; z-index: 50; text-align: center; font: 500 46px/1.22 Jost, sans-serif; color: #fff; text-shadow: 0 0 6px #000, 0 3px 0 #000, 3px 0 0 #000, -3px 0 0 #000, 0 -3px 0 #000, 2px 2px 0 #000, -2px 2px 0 #000, 2px -2px 0 #000, -2px -2px 0 #000 }
+  #sub b { display: block; font: 900 26px/1.5 Jost, sans-serif; letter-spacing: 4px; color: #FFD166 } #sub .vo { font-style: italic }
+</style></head>
+<body><div id="stage"></div>
+<script src="node_modules/three/build/three.min.js"></script><script src="styles8/core.js"></script><script src="balloon/timeline.js"></script><script src="balloon/film.js"></script>
+<script>
+const Q = new URLSearchParams(location.search), ONLY = Q.get('only') ? Q.get('only').split(',') : (Q.get('scene') || Q.get('glide')) ? [Q.get('scene') || Q.get('glide')] : null;
+const load = src => new Promise(r => { const s = document.createElement('script'); s.src = src; s.onload = r; s.onerror = r; document.head.append(s); });
+window.ready = (async () => {
+  for (const sc of TL.scenes) if (!ONLY || ONLY.includes(sc.id) || sc.id === 'home') await load(`balloon/sc_${sc.id}.js`);
+  await Promise.all(FONTS.concat(['500 46px Jost', 'italic 500 46px Jost']).map(f => document.fonts.load(f, 'aA1')));
+  await FILM.init(document.getElementById('stage'), ONLY);
+  window.draw = t => FILM.draw(t); window.drawScene = (id, u) => FILM.drawScene(id, u); window.drawGlide = (id, k) => FILM.drawGlide(id, k);
+  if (Q.get('scene')) FILM.drawScene(Q.get('scene'), +(Q.get('u') || 0)); else if (Q.get('glide')) FILM.drawGlide(Q.get('glide'), +(Q.get('k') || 0)); else FILM.draw(+(Q.get('t') || 0));
+})();
+</script></body></html>

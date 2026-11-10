@@ -1,0 +1,15 @@
+<!doctype html>
+<!-- styles8.html?s=1..12&t=0: one frame of one of the twelve styles (eight at first, hence the name) (styles8/sN_*.js), each drawn with a different technique. Board: node tools_styles8.mjs -->
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@700;800&family=Bangers&family=Press+Start+2P&family=JetBrains+Mono:wght@400;700&family=Jost:wght@500;900&family=Chango&family=Limelight&display=block" rel="stylesheet">
+<style>html, body { margin: 0; background: #000; overflow: hidden } #stage { position: absolute; left: 0; top: 0; width: 1080px; height: 1920px; overflow: hidden }</style></head>
+<body><div id="stage"></div>
+<script src="node_modules/three/build/three.min.js"></script>
+<script src="styles8/core.js"></script>
+<script src="styles8/s1_book.js"></script><script src="styles8/s2_comic.js"></script><script src="styles8/s3_pixel.js"></script><script src="styles8/s4_chrome.js"></script>
+<script src="styles8/s5_lowpoly.js"></script><script src="styles8/s6_flow.js"></script><script src="styles8/s7_ascii.js"></script><script src="styles8/s8_bauhaus.js"></script>
+<script src="styles8/s9_pathtrace.js"></script><script src="styles8/s10_alpine.js"></script><script src="styles8/s11_anime.js"></script><script src="styles8/s12_hose.js"></script>
+<script>
+const Q = new URLSearchParams(location.search), N = +(Q.get('s') || 1) - 1, T = +(Q.get('t') || 0);
+window.ready = (async () => { await Promise.all(FONTS.map(f => document.fonts.load(f, 'aA1'))); const s = S8[N]; await s.init(document.getElementById('stage')); window.draw = t => s.draw && s.draw(t); window.draw(T); })();
+</script></body></html>
